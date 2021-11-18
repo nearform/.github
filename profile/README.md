@@ -3,7 +3,7 @@
 
 ### Who are we? 
 
-At NearForm, we build brilliant digital products and develop digital capability.
+*At NearForm, we build brilliant digital products and develop digital capability.*
 
 :computer: As a remote-first company, NearForm brings people together in highly-skilled teams spread out across 27 countries that collectively build digital solutions for global challenges. We are open and transparent, sharing thoughts, knowledge and ideas both with our teams and with our clients. 
 
@@ -20,8 +20,8 @@ As part of our day to day activities, we contribute to Open Source, conduct rese
 *Watch NodeConf Remote 2021 on demand [here](https://youtube.com/playlist?list=PL0CdgOSSGlBbvNDKMs1RTA-NS-ZwtUm0G)*
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vETUVN-KEgc/0.jpg)](https://youtu.be/vETUVN-KEgc)
-
-#### :clapper: Follow us on Youtube for access to NodeConf recordings & a range of educational videos. 
+  
+#### :clapper: Follow us on YouTube for access to educational videos: 
 
 •[Intro to GraphQL](https://www.youtube.com/watch?v=-pZM1MiHfWo) with Matteo Collina
 
