@@ -23,26 +23,26 @@ As part of our day to day activities, we contribute to Open Source, conduct rese
   
 #### :clapper: Follow us on YouTube for access to educational videos: 
 
-•[Intro to GraphQL](https://www.youtube.com/watch?v=-pZM1MiHfWo) with Matteo Collina
+- [Intro to GraphQL](https://www.youtube.com/watch?v=-pZM1MiHfWo) with Matteo Collina
 
-•[Intro to Fastify](https://www.youtube.com/watch?v=FQu8FnTzOR0) with Matteo Collina
+- [Intro to Fastify](https://www.youtube.com/watch?v=FQu8FnTzOR0) with Matteo Collina
 
-•[Node Core & broken Promises](https://www.youtube.com/watch?v=qOHgQAV2ydo) with Matteo Collina 
+- [Node Core & broken Promises](https://www.youtube.com/watch?v=qOHgQAV2ydo) with Matteo Collina 
 
 
 #### :books: Visit our website to read what our team have been writing about: 
 
-•[Implementing DevSecOps in Azure](https://www.nearform.com/blog/getting-devsecops-right-in-azure/)
+- [Implementing DevSecOps in Azure](https://www.nearform.com/blog/getting-devsecops-right-in-azure/)
 
-•[Welcome to pino@7.0.0 – and the era of worker_thread transport
+- [Welcome to pino@7.0.0 – and the era of worker_thread transport
 ](https://www.nearform.com/blog/pino7-0-0-pino-transport-worker_thread-transport/)
 
-•[MobX state management in React](https://www.nearform.com/blog/mobx-state-management-in-react/)
+- [MobX state management in React](https://www.nearform.com/blog/mobx-state-management-in-react/)
 
-•[Automating Dependabot with our GitHub app
+- [Automating Dependabot with our GitHub app
 ](https://www.nearform.com/blog/github-dependabot-automation/)
 
-•[Using AbortSignal in Node.js](https://www.nearform.com/blog/using-abortsignal-in-node-js/)
+- [Using AbortSignal in Node.js](https://www.nearform.com/blog/using-abortsignal-in-node-js/)
 
 ### :round_pushpin: We are hiring!
 [View](https://www.nearform.com/careers/) our vacanies and apply now. 
