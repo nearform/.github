@@ -45,4 +45,4 @@ As part of our day to day activities, we contribute to Open Source, conduct rese
 - [Using AbortSignal in Node.js](https://www.nearform.com/blog/using-abortsignal-in-node-js/)
 
 ### :round_pushpin: We are hiring!
-[View](https://www.nearform.com/careers/) our vacanies and apply now. 
+[View](https://www.nearform.com/careers/) our vacancies and apply now. 
