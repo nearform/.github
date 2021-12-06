@@ -32,6 +32,10 @@ As part of our day to day activities, we contribute to Open Source, conduct rese
 
 #### :books: Visit our website to read what our team have been writing about: 
 
+- [How to use GraphQL in React using hooks](https://www.nearform.com/blog/how-to-use-graphql-in-react-using-hooks/)
+
+- [Deploying with App Runner and AWS Cloud Control](https://www.nearform.com/blog/deploying-with-app-runner-aws-cloud-control/)
+
 - [Implementing DevSecOps in Azure](https://www.nearform.com/blog/getting-devsecops-right-in-azure/)
 
 - [Welcome to pino@7.0.0 – and the era of worker_thread transport
