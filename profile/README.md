@@ -17,9 +17,7 @@ As part of our day to day activities, we contribute to Open Source, conduct rese
 
 :trophy: We are the proud organisers of [NodeConf EU](https://twitter.com/nodeconfremote), and most recently, NodeConf Remote, a three-day conference providing a place for Node.js experts to come together every year and collaborate while discussing new developments.
 
-*Watch NodeConf Remote 2021 on demand [here](https://youtube.com/playlist?list=PL0CdgOSSGlBbvNDKMs1RTA-NS-ZwtUm0G)*
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vETUVN-KEgc/0.jpg)](https://youtu.be/vETUVN-KEgc)
+https://user-images.githubusercontent.com/94561163/145004022-9d75b3d6-2e1a-419a-b2c8-0495ae00cfcc.mp4
   
 #### :clapper: Follow us on YouTube for access to educational videos: 
 
