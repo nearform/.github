@@ -17,8 +17,8 @@ As part of our day to day activities, we contribute to Open Source, conduct rese
 
 :trophy: We are the proud organisers of [NodeConf EU](https://twitter.com/nodeconfremote), and most recently, NodeConf Remote, a three-day conference providing a place for Node.js experts to come together every year and collaborate while discussing new developments.
 
-https://user-images.githubusercontent.com/94561163/145004022-9d75b3d6-2e1a-419a-b2c8-0495ae00cfcc.mp4
-  
+https://user-images.githubusercontent.com/94561163/145004753-121babce-92d6-4bfc-a9c0-36b1b5c8d5c9.mp4
+
 #### :clapper: Follow us on YouTube for access to educational videos: 
 
 - [Intro to GraphQL](https://www.youtube.com/watch?v=-pZM1MiHfWo) with Matteo Collina
