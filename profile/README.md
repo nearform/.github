@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/94561163/145004753-121babce-92d6-4bfc-
 #### :speaker: Upcoming events
 #### Mercurius in daily.dev: A success story in reducing latency in a high-traffic news outlet
 - Date: 24 January 2022
-- 11:00 UTC
+- Time: 11:00 UTC
 
 Join Matteo Collina, Chief Software Architect at NearForm, and Ido Shamun, Co-Founder & CTO at daily.dev for a discussion about the benefits that using Mercurius has brought to daily.dev in reducing latency.
 
