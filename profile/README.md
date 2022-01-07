@@ -19,6 +19,21 @@ As part of our day to day activities, we contribute to Open Source, conduct rese
 
 https://user-images.githubusercontent.com/94561163/145004753-121babce-92d6-4bfc-a9c0-36b1b5c8d5c9.mp4
 
+#### :speaker: Upcoming events
+#### Mercurius in daily.dev: A success story in reducing latency in a high-traffic news outlet
+- Date: 24 January 2022
+- 11:00 UTC
+Join Matteo Collina, Chief Software Architect at NearForm, and Ido Shamun, Co-Founder & CTO at daily.dev for a discussion about the benefits that using Mercurius has brought to daily.dev in reducing latency.
+
+We will be looking at:
+
+- The challenges daily.dev was facing implementing GraphQL subscriptions
+- Why Mercurius was chosen as the right solution to enable a seamless migration
+- The benefits that Mercurius has brought the high-traffic news outlet since being implemented
+- There will be time for questions at the end of the presentation.
+
+:calendar:[Register here](https://nearform.zoom.us/webinar/register/WN_ZqwPs3-HRT-WYw9uJm5Whg)
+
 #### :clapper: Follow us on YouTube for access to educational videos: 
 
 - [Intro to GraphQL](https://www.youtube.com/watch?v=-pZM1MiHfWo) with Matteo Collina
@@ -36,8 +51,8 @@ https://user-images.githubusercontent.com/94561163/145004753-121babce-92d6-4bfc-
 
 - [Implementing DevSecOps in Azure](https://www.nearform.com/blog/getting-devsecops-right-in-azure/)
 
-- [Welcome to pino@7.0.0 – and the era of worker_thread transport
-](https://www.nearform.com/blog/pino7-0-0-pino-transport-worker_thread-transport/)
+- [8 Valuable Node.js Resources from NearFormers in 2021
+](https://www.nearform.com/blog/8-valuable-node-js-resources-2021/)
 
 - [MobX state management in React](https://www.nearform.com/blog/mobx-state-management-in-react/)
 
