@@ -19,21 +19,6 @@ As part of our day to day activities, we contribute to Open Source, conduct rese
 
 https://user-images.githubusercontent.com/94561163/145004753-121babce-92d6-4bfc-a9c0-36b1b5c8d5c9.mp4
 
-#### :speaker: Upcoming events
-#### Mercurius in daily.dev: A success story in reducing latency in a high-traffic news outlet
-- Date: 24 January 2022
-- Time: 11:00 UTC
-
-Join Matteo Collina, Chief Software Architect at NearForm, and Ido Shamun, Co-Founder & CTO at daily.dev for a discussion about the benefits that using Mercurius has brought to daily.dev in reducing latency.
-
-We will be looking at:
-
-- The challenges daily.dev was facing implementing GraphQL subscriptions
-- Why Mercurius was chosen as the right solution to enable a seamless migration
-- The benefits that Mercurius has brought the high-traffic news outlet since being implemented
-- There will be time for questions at the end of the presentation.
-
-:calendar:[Register here](https://nearform.zoom.us/webinar/register/WN_ZqwPs3-HRT-WYw9uJm5Whg)
 
 #### :clapper: Follow us on YouTube for access to educational videos: 
 
@@ -43,12 +28,14 @@ We will be looking at:
 
 - [Node Core & broken Promises](https://www.youtube.com/watch?v=qOHgQAV2ydo) with Matteo Collina 
 
+- [Mercurius in daily.dev: A success story in reducing latency in a high-traffic news outlet](https://www.youtube.com/watch?v=UKaJDmwIIpE&t=1s)with Matteo Collina & Ido Shamun
+
 
 #### :books: Visit our website to read what our team have been writing about: 
 
 - [How to use GraphQL in React using hooks](https://www.nearform.com/blog/how-to-use-graphql-in-react-using-hooks/)
 
-- [Deploying with App Runner and AWS Cloud Control](https://www.nearform.com/blog/deploying-with-app-runner-aws-cloud-control/)
+- [The Cost of Logging in 2022](https://www.nearform.com/blog/the-cost-of-logging-in-2022/)
 
 - [Implementing DevSecOps in Azure](https://www.nearform.com/blog/getting-devsecops-right-in-azure/)
 
