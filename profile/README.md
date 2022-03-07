@@ -30,14 +30,17 @@ https://user-images.githubusercontent.com/94561163/145004753-121babce-92d6-4bfc-
 
 - [Mercurius in daily.dev: A success story in reducing latency in a high-traffic news outlet](https://www.youtube.com/watch?v=UKaJDmwIIpE&t=1s)with Matteo Collina & Ido Shamun
 
+#### 	:hourglass: Events
+
+- [Untangling GraphQL: ](https://hopin.com/events/untangling-graphql?utm_source=PR&utm_campaign=PR) Join us on 6-7 April for two days of disruptive ideas and ground-breaking insights as we bring together the most leading minds in the GraphQL space. 
+
+- Transforming While Performing: Building Out Technical Teams & Knowledge in Times of Change](https://nearform.zoom.us/webinar/register/7216466664574/WN_bn4IgdTkTtC7HXnIi90ADw)
 
 #### :books: Visit our website to read what our team have been writing about: 
 
 - [How to use GraphQL in React using hooks](https://www.nearform.com/blog/how-to-use-graphql-in-react-using-hooks/)
 
-- [The Cost of Logging in 2022](https://www.nearform.com/blog/the-cost-of-logging-in-2022/)
-
-- [Implementing DevSecOps in Azure](https://www.nearform.com/blog/getting-devsecops-right-in-azure/)
+- [Optic – Secure Npm Release Automation](https://www.nearform.com/blog/optic-secure-npm-release-automation/)
 
 - [8 Valuable Node.js Resources from NearFormers in 2021
 ](https://www.nearform.com/blog/8-valuable-node-js-resources-2021/)
