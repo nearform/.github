@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/94561163/145004753-121babce-92d6-4bfc-
 
 - [Untangling GraphQL: ](https://hopin.com/events/untangling-graphql?utm_source=PR&utm_campaign=PR) Join us on 6-7 April for two days of disruptive ideas and ground-breaking insights as we bring together the most leading minds in the GraphQL space. 
 
-- Transforming While Performing: Building Out Technical Teams & Knowledge in Times of Change](https://nearform.zoom.us/webinar/register/7216466664574/WN_bn4IgdTkTtC7HXnIi90ADw)
+- [Transforming While Performing: Building Out Technical Teams & Knowledge in Times of Change](https://nearform.zoom.us/webinar/register/7216466664574/WN_bn4IgdTkTtC7HXnIi90ADw)
 
 #### :books: Visit our website to read what our team have been writing about: 
 
