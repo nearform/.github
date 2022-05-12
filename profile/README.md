@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/94561163/145004753-121babce-92d6-4bfc-
 
 Stay tuned for upcoming events!
 
-#### :books: Visit our website to read what our team have been writing about: 
+#### :books: Visit our website to read what our team have been writing about
 
 - [How to use GraphQL in React using hooks](https://www.nearform.com/blog/how-to-use-graphql-in-react-using-hooks/)
 
@@ -49,6 +49,13 @@ Stay tuned for upcoming events!
 ](https://www.nearform.com/blog/github-dependabot-automation/)
 
 - [Using AbortSignal in Node.js](https://www.nearform.com/blog/using-abortsignal-in-node-js/)
+
+#### 🤓 Learn with our hands-on workshops
+
+- [the-fastify-workshop](https://github.com/nearform/the-fastify-workshop)
+- [the-graphql-workshop](https://github.com/nearform/the-graphql-workshop)
+- [react-patterns-workshop](https://github.com/nearform/react-patterns-workshop)
+- [promises-workshop](https://github.com/nearform/promises-workshop)
 
 ### :round_pushpin: We are hiring!
 [View](https://www.nearform.com/careers/) our vacancies and apply now. 
