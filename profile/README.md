@@ -11,24 +11,21 @@
 
 ### Our contributions to the open source community
 
-:busts_in_silhouette: From our inception, our core belief has been that web technology and programming languages would enable us to solve real world problems efficiently and quickly. This was true when we founded the company in 2012,  and remains true to this day.
+:busts_in_silhouette: From our inception, our core belief has been that web technology and programming languages would enable us to solve real-world problems efficiently and quickly. This was true when we founded the company in 2012, and remains true to this day.
 
-As part of our day to day activities, we contribute to Open Source, conduct research and create prototypes, and regularly publish Open Source code which we also use internally. 
+As part of our day-to-day activities, we contribute to Open Source, conduct research and create prototypes, and regularly publish Open Source code which we also use internally. 
 
 :trophy: We are the proud organisers of [NodeConf EU](https://twitter.com/nodeconfremote), and most recently, NodeConf Remote, a three-day conference providing a place for Node.js experts to come together every year and collaborate while discussing new developments.
 
-https://user-images.githubusercontent.com/94561163/145004753-121babce-92d6-4bfc-a9c0-36b1b5c8d5c9.mp4
-
-
 #### :clapper: Follow us on YouTube for access to educational videos: 
 
-- [Intro to GraphQL](https://www.youtube.com/watch?v=-pZM1MiHfWo) with Matteo Collina
+- [Intro to GraphQL](https://www.youtube.com/watch?v=-pZM1MiHfWo)
 
-- [Intro to Fastify](https://www.youtube.com/watch?v=FQu8FnTzOR0) with Matteo Collina
+- [Intro to Fastify](https://www.youtube.com/watch?v=FQu8FnTzOR0)
 
-- [Node Core & broken Promises](https://www.youtube.com/watch?v=qOHgQAV2ydo) with Matteo Collina 
+- [Node Core & broken Promises](https://www.youtube.com/watch?v=qOHgQAV2ydo) 
 
-- [Mercurius in daily.dev: A success story in reducing latency in a high-traffic news outlet](https://www.youtube.com/watch?v=UKaJDmwIIpE&t=1s) with Matteo Collina & Ido Shamun
+- [Mercurius in daily.dev: A success story in reducing latency in a high-traffic news outlet](https://www.youtube.com/watch?v=UKaJDmwIIpE&t=1s) 
 
 #### 	:hourglass: Events
 
