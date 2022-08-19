@@ -28,7 +28,7 @@ https://user-images.githubusercontent.com/94561163/145004753-121babce-92d6-4bfc-
 
 - [Node Core & broken Promises](https://www.youtube.com/watch?v=qOHgQAV2ydo) with Matteo Collina 
 
-- [Mercurius in daily.dev: A success story in reducing latency in a high-traffic news outlet](https://www.youtube.com/watch?v=UKaJDmwIIpE&t=1s)with Matteo Collina & Ido Shamun
+- [Mercurius in daily.dev: A success story in reducing latency in a high-traffic news outlet](https://www.youtube.com/watch?v=UKaJDmwIIpE&t=1s) with Matteo Collina & Ido Shamun
 
 #### 	:hourglass: Events
 
