@@ -1,3 +1,4 @@
+
 # NearForm
 ### *Creating Digital Advantage* 
 
@@ -41,19 +42,29 @@ During the 3 day conference, attendees will hear from over 30 hand-picked speake
 
 #### :books: Visit our website to read what our team have been writing about
 
+##### :tada: Popular Articles:
+
+- [Using abortsignal in Node.js](https://www.nearform.com/blog/using-abortsignal-in-node-js/)
+
+- [Load Testing with Autocannon](https://www.nearform.com/blog/load-testing-with-autocannon/)
+
+- [Adding a Permission System to Node.js](https://www.nearform.com/blog/adding-a-permission-system-to-node-js/)
+
 - [How to use GraphQL in React using hooks](https://www.nearform.com/blog/how-to-use-graphql-in-react-using-hooks/)
-
-- [Optic – Secure Npm Release Automation](https://www.nearform.com/blog/optic-secure-npm-release-automation/)
-
-- [8 Valuable Node.js Resources from NearFormers in 2021
-](https://www.nearform.com/blog/8-valuable-node-js-resources-2021/)
 
 - [MobX state management in React](https://www.nearform.com/blog/mobx-state-management-in-react/)
 
-- [Automating Dependabot with our GitHub app
-](https://www.nearform.com/blog/github-dependabot-automation/)
+#### :newspaper: Recent Articles:
 
-- [Using AbortSignal in Node.js](https://www.nearform.com/blog/using-abortsignal-in-node-js/)
+- [How to Avoid Time-Based DDOS Attacks in Node.js](https://www.nearform.com/blog/avoid-time-based-ddos-attacks-node-js/)
+
+- [How to Write a Test Strategy Document for Software Testing](https://www.nearform.com/blog/how-to-write-software-test-strategy-document/)
+
+- [Introducing readable-stream 4.0.0](https://www.nearform.com/blog/introducing-readable-stream-4-0-0/)
+
+- [Tracking Memory Allocation in Node.js](https://www.nearform.com/blog/tracking-memory-allocation-node-js/)
+
+- [Cloud Governance with CDK using Aspects](https://www.nearform.com/blog/cloud-governance-with-cdk-using-aspects/)
 
 #### 🤓 Learn with our hands-on workshops
 
