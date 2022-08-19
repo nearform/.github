@@ -1,6 +1,7 @@
+![generic-feature-image-2](https://user-images.githubusercontent.com/77571833/185617842-a4bbda4e-a441-4327-828e-a4472db5d9f9.png)
 
 # NearForm
-### *Creating Digital Advantage* 
+## *Creating Digital Advantage* 
 
 ### Who are we? 
 
@@ -14,11 +15,21 @@
 
 :busts_in_silhouette: From our inception, our core belief has been that web technology and programming languages would enable us to solve real-world problems efficiently and quickly. This was true when we founded the company in 2012, and remains true to this day.
 
-As part of our day-to-day activities, we contribute to Open Source, conduct research and create prototypes, and regularly publish Open Source code which we also use internally. 
+As part of our day-to-day activities, we contribute to Open Source, conduct research and create prototypes, and regularly publish Open Source code which we also use internally.
 
-:trophy: We are the proud organisers of [NodeConf EU](https://twitter.com/nodeconfremote), and most recently, NodeConf Remote, a three-day conference providing a place for Node.js experts to come together every year and collaborate while discussing new developments.
+---
 
-#### :clapper: Follow us on YouTube for access to educational videos: 
+## :round_pushpin: We are hiring!
+[View](https://www.nearform.com/careers/) our vacancies and apply now. 
+
+---
+
+https://user-images.githubusercontent.com/77571833/185618054-15d312b9-0ca3-4e29-b8c3-21e0b3f0e786.mp4
+
+
+
+## :clapper: YouTube
+[Follow us on YouTube](https://www.youtube.com/c/nearForm/featured) for access to educational videos: 
 
 - [Intro to GraphQL](https://www.youtube.com/watch?v=-pZM1MiHfWo)
 
@@ -28,21 +39,29 @@ As part of our day-to-day activities, we contribute to Open Source, conduct rese
 
 - [Mercurius in daily.dev: A success story in reducing latency in a high-traffic news outlet](https://www.youtube.com/watch?v=UKaJDmwIIpE&t=1s) 
 
-#### 	:hourglass: Events
+---
 
-NodeConf EU is back!!
+## :hourglass: Events
+
+### NodeConf EU is back!!
+
+We are the proud organisers of [NodeConf EU](https://twitter.com/nodeconfremote), and most recently, NodeConf Remote, a three-day conference providing a place for Node.js experts to come together every year and collaborate while discussing new developments.
 
 NearForm is thrilled to announce the return of NodeConf as an in-person event in Ireland on **3-5 October 2022**! NodeConf EU has rightly earned its reputation as the leading key Node.js event in Europe, bringing together the brilliant Node community in a relaxed environment catered to promoting the sharing of ideas.
 
 During the 3 day conference, attendees will hear from over 30 hand-picked speakers and have the opportunity to participate in a selection of workshops with top Node.js contributors.
 
-:microphone:[Submit an application to be a speaker.](https://sessionize.com/nodeconf-eu-2022)
+- :house: [NodeConf EU Homepage](https://nodeconf.eu/)
 
-:ticket:[Secure your tickets today.](https://nodeconf.eu/)
+- :ticket: [Secure your tickets today.](https://ti.to/nearform/nodeconf-eu-2022)
 
-#### :books: Visit our website to read what our team have been writing about
+---
 
-##### :tada: Popular Articles:
+## :books: NearForm Blog 
+
+Visit our website to read what our team have been writing about
+
+### :tada: Popular Articles:
 
 - [Using abortsignal in Node.js](https://www.nearform.com/blog/using-abortsignal-in-node-js/)
 
@@ -54,7 +73,7 @@ During the 3 day conference, attendees will hear from over 30 hand-picked speake
 
 - [MobX state management in React](https://www.nearform.com/blog/mobx-state-management-in-react/)
 
-#### :newspaper: Recent Articles:
+### :newspaper: Recent Articles:
 
 - [How to Avoid Time-Based DDOS Attacks in Node.js](https://www.nearform.com/blog/avoid-time-based-ddos-attacks-node-js/)
 
@@ -66,12 +85,15 @@ During the 3 day conference, attendees will hear from over 30 hand-picked speake
 
 - [Cloud Governance with CDK using Aspects](https://www.nearform.com/blog/cloud-governance-with-cdk-using-aspects/)
 
-#### 🤓 Learn with our hands-on workshops
+---
+
+## 🤓 Workshops
+Learn with our hands-on workshops
 
 - [the-fastify-workshop](https://github.com/nearform/the-fastify-workshop)
-- [the-graphql-workshop](https://github.com/nearform/the-graphql-workshop)
-- [react-patterns-workshop](https://github.com/nearform/react-patterns-workshop)
-- [promises-workshop](https://github.com/nearform/promises-workshop)
 
-### :round_pushpin: We are hiring!
-[View](https://www.nearform.com/careers/) our vacancies and apply now. 
+- [the-graphql-workshop](https://github.com/nearform/the-graphql-workshop)
+
+- [react-patterns-workshop](https://github.com/nearform/react-patterns-workshop)
+
+- [promises-workshop](https://github.com/nearform/promises-workshop)
