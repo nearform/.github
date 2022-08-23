@@ -97,3 +97,5 @@ Learn with our hands-on workshops
 - [react-patterns-workshop](https://github.com/nearform/react-patterns-workshop)
 
 - [promises-workshop](https://github.com/nearform/promises-workshop)
+
+- [azure-workshop](https://github.com/nearform/azure-workshop)
