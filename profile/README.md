@@ -43,17 +43,15 @@ https://user-images.githubusercontent.com/77571833/185618054-15d312b9-0ca3-4e29-
 
 ## :hourglass: Events
 
-### NodeConf EU is back!!
+### NodeConf EU
 
-We are the proud organisers of [NodeConf EU](https://twitter.com/nodeconfremote), and most recently, NodeConf Remote, a three-day conference providing a place for Node.js experts to come together every year and collaborate while discussing new developments.
+We are the proud organisers of [NodeConf EU]([https://twitter.com/nodeconfremote](https://twitter.com/nodeconfeu)), and most recently, NodeConf Remote, a three-day conference providing a place for Node.js experts to come together every year and collaborate while discussing new developments.
 
-NearForm is thrilled to announce the return of NodeConf as an in-person event in Ireland on **3-5 October 2022**! NodeConf EU has rightly earned its reputation as the leading key Node.js event in Europe, bringing together the brilliant Node community in a relaxed environment catered to promoting the sharing of ideas.
+In Ocotber 2022 NearForm welcomed the return of NodeConf as an in-person event in Ireland! NodeConf EU has rightly earned its reputation as the leading key Node.js event in Europe, bringing together the brilliant Node community in a relaxed environment catered to promoting the sharing of ideas.
 
-During the 3 day conference, attendees will hear from over 30 hand-picked speakers and have the opportunity to participate in a selection of workshops with top Node.js contributors.
+During the 3 day conference, attendees hear from over 30 hand-picked speakers and have the opportunity to participate in a selection of workshops with top Node.js contributors.
 
 - :house: [NodeConf EU Homepage](https://nodeconf.eu/)
-
-- :ticket: [Secure your tickets today.](https://ti.to/nearform/nodeconf-eu-2022)
 
 ---
 
