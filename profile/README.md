@@ -73,15 +73,19 @@ Visit our website to read what our team have been writing about
 
 ### :newspaper: Recent Articles:
 
+- [Node.js Multithreading, Part 1](https://www.nearform.com/blog/node-js-multithreading-part-1/)
+
+- [The Complete Guide to the Fastify Plugin System](https://www.nearform.com/blog/complete-guide-fastify-plugin-system/)
+
+- [React Micro Frontends with Module Federation](https://www.nearform.com/blog/react-micro-frontends-module-federation/)
+
 - [How to Avoid Time-Based DDOS Attacks in Node.js](https://www.nearform.com/blog/avoid-time-based-ddos-attacks-node-js/)
 
 - [How to Write a Test Strategy Document for Software Testing](https://www.nearform.com/blog/how-to-write-software-test-strategy-document/)
 
-- [Introducing readable-stream 4.0.0](https://www.nearform.com/blog/introducing-readable-stream-4-0-0/)
+### :large_blue_diamond: Hashnode:
 
-- [Tracking Memory Allocation in Node.js](https://www.nearform.com/blog/tracking-memory-allocation-node-js/)
-
-- [Cloud Governance with CDK using Aspects](https://www.nearform.com/blog/cloud-governance-with-cdk-using-aspects/)
+- [Check out our blog on Hashnode](https://nearform.hashnode.dev)
 
 ---
 
@@ -97,3 +101,5 @@ Learn with our hands-on workshops
 - [promises-workshop](https://github.com/nearform/promises-workshop)
 
 - [azure-workshop](https://github.com/nearform/azure-workshop)
+
+- [owasp-top-ten-workshop](https://github.com/nearform/owasp-top-ten-workshop)
