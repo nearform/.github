@@ -51,7 +51,7 @@ In Ocotber 2022 NearForm welcomed the return of NodeConf as an in-person event i
 
 During the 3 day conference, attendees hear from over 30 hand-picked speakers and have the opportunity to participate in a selection of workshops with top Node.js contributors.
 
-- :house: [NodeConf EU Homepage](https://nodeconf.eu/)
+- :house: [NodeConf EU Homepage](https://www.nodeconf.eu/)
 
 ---
 
