@@ -73,15 +73,15 @@ Visit our website to read what our team have been writing about
 
 ### :newspaper: Recent Articles:
 
-- [Node.js Multithreading, Part 1](https://www.nearform.com/blog/node-js-multithreading-part-1/)
+- [Unlock the Power of Runtime Log Level Control](https://www.nearform.com/blog/unlock-the-power-of-runtime-log-level-control/)
 
-- [The Complete Guide to the Fastify Plugin System](https://www.nearform.com/blog/complete-guide-fastify-plugin-system/)
+- [NPM Provenance: How to Get a Simple and Secure Release Pipeline](https://www.nearform.com/blog/npm-provenance-how-to-get-a-simple-and-secure-release-pipeline/)
 
-- [React Micro Frontends with Module Federation](https://www.nearform.com/blog/react-micro-frontends-module-federation/)
+- [5 Key Architectural Characteristics for Building Great Frontend Applications](https://www.nearform.com/blog/react-micro-frontends-module-federation/)
 
-- [How to Avoid Time-Based DDOS Attacks in Node.js](https://www.nearform.com/blog/avoid-time-based-ddos-attacks-node-js/)
+- [State of Node.js Performance 2023](https://www.nearform.com/blog/state-of-node-js-performance-2023/)
 
-- [How to Write a Test Strategy Document for Software Testing](https://www.nearform.com/blog/how-to-write-software-test-strategy-document/)
+- [Discover How to Write a ChatGPT Slack Bot in Node.js](https://www.nearform.com/blog/discover-how-to-write-a-chatgpt-slack-bot-in-node-js/)
 
 ### :large_blue_diamond: Hashnode:
 
