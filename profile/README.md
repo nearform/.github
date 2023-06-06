@@ -67,9 +67,9 @@ Visit our website to read what our team have been writing about
 
 - [Adding a Permission System to Node.js](https://www.nearform.com/blog/adding-a-permission-system-to-node-js/)
 
-- [How to use GraphQL in React using hooks](https://www.nearform.com/blog/how-to-use-graphql-in-react-using-hooks/)
+- [React Micro Frontends with Module Federation](https://www.nearform.com/blog/react-micro-frontends-module-federation/)
 
-- [MobX state management in React](https://www.nearform.com/blog/mobx-state-management-in-react/)
+- [How to Write a Test Strategy Document for Software Testing](https://www.nearform.com/blog/how-to-write-software-test-strategy-document/)
 
 ### :newspaper: Recent Articles:
 
