@@ -77,7 +77,7 @@ Visit our website to read what our team have been writing about
 
 - [NPM Provenance: How to Get a Simple and Secure Release Pipeline](https://www.nearform.com/blog/npm-provenance-how-to-get-a-simple-and-secure-release-pipeline/)
 
-- [5 Key Architectural Characteristics for Building Great Frontend Applications](https://www.nearform.com/blog/react-micro-frontends-module-federation/)
+- [5 Key Architectural Characteristics for Building Great Frontend Applications](https://www.nearform.com/blog/5-key-architectural-characteristics-for-building-great-frontend-applications/)
 
 - [State of Node.js Performance 2023](https://www.nearform.com/blog/state-of-node-js-performance-2023/)
 
