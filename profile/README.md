@@ -1,43 +1,33 @@
-![generic-feature-image-2](https://user-images.githubusercontent.com/77571833/185617842-a4bbda4e-a441-4327-828e-a4472db5d9f9.png)
+![preview_thumbnail_4](https://github.com/nearform/.github/assets/110472631/c8d57b9d-e30b-49af-a522-cd52533fb0a7)
 
-# NearForm
-## *Creating Digital Advantage* 
+
+# Nearform
+## Building enduring impact_ 
 
 ### Who are we? 
 
-*At NearForm, we build brilliant digital products and develop digital capability.*
+*​​We combine digital engineering, design and strategy to build code and capability for sustained business impact.*
 
-:computer: As a remote-first company, NearForm brings people together in highly-skilled teams spread out across 27 countries that collectively build digital solutions for global challenges. We are open and transparent, sharing thoughts, knowledge and ideas both with our teams and with our clients. 
-
-:keyboard: We focus on fast delivery to mobile and web platforms by a single team from a single codebase. At NearForm, we are committed to growing the JavaScript ecosystem through contributions to Open Source projects, particularly within React.js & Node.js. 
+:computer: We’re thinkers, doers and makers. We build digital products that make the world work better by creating great customer, business and developer experiences. Our approach empowers teams to continue building digital strength with confidence. 
 
 ### Our contributions to the open source community
 
-:busts_in_silhouette: From our inception, our core belief has been that web technology and programming languages would enable us to solve real-world problems efficiently and quickly. This was true when we founded the company in 2012, and remains true to this day.
+:busts_in_silhouette: Open Source is our craft and community — a global network of people passionate about pooling ideas and sharing the spirit of innovation to push programming forward. We harness the power of Open Source to pursue technological excellence for ourselves and business advantage for our clients.
 
 As part of our day-to-day activities, we contribute to Open Source, conduct research and create prototypes, and regularly publish Open Source code which we also use internally.
 
 ---
 
 ## :round_pushpin: We are hiring!
+
+Our team is made up of the world's most respected engineers, designers and digital managers. 
+
 [View](https://www.nearform.com/careers/) our vacancies and apply now. 
 
 ---
 
-https://user-images.githubusercontent.com/77571833/185618054-15d312b9-0ca3-4e29-b8c3-21e0b3f0e786.mp4
-
-
-
 ## :clapper: YouTube
-[Follow us on YouTube](https://www.youtube.com/c/nearForm/featured) for access to educational videos: 
-
-- [Intro to GraphQL](https://www.youtube.com/watch?v=-pZM1MiHfWo)
-
-- [Intro to Fastify](https://www.youtube.com/watch?v=FQu8FnTzOR0)
-
-- [Node Core & broken Promises](https://www.youtube.com/watch?v=qOHgQAV2ydo) 
-
-- [Mercurius in daily.dev: A success story in reducing latency in a high-traffic news outlet](https://www.youtube.com/watch?v=UKaJDmwIIpE&t=1s) 
+[Follow us on YouTube](https://www.youtube.com/c/nearForm/featured) for access to educational videos. 
 
 ---
 
@@ -45,11 +35,9 @@ https://user-images.githubusercontent.com/77571833/185618054-15d312b9-0ca3-4e29-
 
 ### NodeConf EU
 
-We are the proud organisers of [NodeConf EU]([https://twitter.com/nodeconfremote](https://twitter.com/nodeconfeu)), and most recently, NodeConf Remote, a three-day conference providing a place for Node.js experts to come together every year and collaborate while discussing new developments.
+We are the proud organisers of NodeConf EU. In the words of Cian O’Maidin, Nearform’s President & Founder and the Founder of NodeConf EU, it’s “A conference about technology that brings people from different parts of the world from different backgrounds together, that should be celebrated.” 
 
-In October 2022 NearForm welcomed the return of NodeConf as an in-person event in Ireland! NodeConf EU has rightly earned its reputation as the leading key Node.js event in Europe, bringing together the brilliant Node community in a relaxed environment catered to promoting the sharing of ideas.
-
-During the 3 day conference, attendees hear from over 30 hand-picked speakers and have the opportunity to participate in a selection of workshops with top Node.js contributors.
+During the conference, attendees hear from world-renowned speakers and have the opportunity to participate in a selection of workshops with top Node.js contributors.
 
 - :house: [NodeConf EU Homepage](https://www.nodeconf.eu/)
 
@@ -57,31 +45,15 @@ During the 3 day conference, attendees hear from over 30 hand-picked speakers an
 
 ## :books: NearForm Blog 
 
-Visit our website to read what our team have been writing about
+Visit our [Insights](https://nearform.com/insights/) page and scroll to our Digital Community to read what Nearform’s team have been writing about.
 
-### :tada: Popular Articles:
+### :tada: Taster of our articles:
 
-- [Using abortsignal in Node.js](https://www.nearform.com/blog/using-abortsignal-in-node-js/)
+- [Augmenting user experiences using LLMS: an analysis of our travel AI agent application](https://nearform.com/digital-community/augmenting-user-experiences-using-llms-an-analysis-of-our-travel-ai-agent-application)
 
-- [Load Testing with Autocannon](https://www.nearform.com/blog/load-testing-with-autocannon/)
+- [Micro Frontend Architecture: Helping you move from theory to practice with our workshop](https://nearform.com/digital-community/micro-frontend-architecture-helping-you-move-from-theory-to-practice-with-our-workshop)
 
-- [Adding a Permission System to Node.js](https://www.nearform.com/blog/adding-a-permission-system-to-node-js/)
-
-- [React Micro Frontends with Module Federation](https://www.nearform.com/blog/react-micro-frontends-module-federation/)
-
-- [How to Write a Test Strategy Document for Software Testing](https://www.nearform.com/blog/how-to-write-software-test-strategy-document/)
-
-### :newspaper: Recent Articles:
-
-- [Unlock the Power of Runtime Log Level Control](https://www.nearform.com/blog/unlock-the-power-of-runtime-log-level-control/)
-
-- [NPM Provenance: How to Get a Simple and Secure Release Pipeline](https://www.nearform.com/blog/npm-provenance-how-to-get-a-simple-and-secure-release-pipeline/)
-
-- [5 Key Architectural Characteristics for Building Great Frontend Applications](https://www.nearform.com/blog/5-key-architectural-characteristics-for-building-great-frontend-applications/)
-
-- [State of Node.js Performance 2023](https://www.nearform.com/blog/state-of-node-js-performance-2023/)
-
-- [Discover How to Write a ChatGPT Slack Bot in Node.js](https://www.nearform.com/blog/discover-how-to-write-a-chatgpt-slack-bot-in-node-js/)
+- [An introduction to ETL and Azure Data Factory](https://nearform.com/digital-community/an-introduction-to-etl-and-azure-data-factory)
 
 ### :large_blue_diamond: Hashnode:
 
