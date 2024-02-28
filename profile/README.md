@@ -1,6 +1,5 @@
 ![preview_thumbnail_4](https://github.com/nearform/.github/assets/110472631/c8d57b9d-e30b-49af-a522-cd52533fb0a7)
 
-
 # Nearform
 ## Building enduring impact_ 
 
