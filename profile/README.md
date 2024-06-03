@@ -42,7 +42,7 @@ During the conference, attendees hear from world-renowned speakers and have the 
 
 ---
 
-## :books: NearForm Blog 
+## :books: Nearform Blog 
 
 Visit our [Insights](https://nearform.com/insights/) page and scroll to our Digital Community to read what Nearform’s team have been writing about.
 
