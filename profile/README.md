@@ -9,7 +9,7 @@
 
 :computer: We’re thinkers, doers and makers. We build digital products that make the world work better by creating great customer, business and developer experiences. Our approach empowers teams to continue building digital strength with confidence. 
 
-### Our contributions to the open source community
+### Our contributions to the Open Source community
 
 :busts_in_silhouette: Open Source is our craft and community — a global network of people passionate about pooling ideas and sharing the spirit of innovation to push programming forward. We harness the power of Open Source to pursue technological excellence for ourselves and business advantage for our clients.
 
